@@ -21,5 +21,6 @@
 
 en:
   hello: "Hello world"
+  page_title: "OpenSources"
   brand:
-      name: OpenSources
+      name: "OpenSources"
