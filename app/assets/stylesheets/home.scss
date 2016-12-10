@@ -1,6 +1,9 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
 p.alert, p.notice {
 	padding: 0px;
 	margin: 0px;
@@ -23,4 +26,9 @@ nav.navbar {
 nav ul.nav.navbar-nav img{
 	height: 25px;
 	margin-right: 3px;
+}
+#project_summary{
+	@include make-lg-column(8);
+	@include make-lg-column-offset(2);
+	@include make-xs-column(12);
 }
