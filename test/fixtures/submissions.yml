@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  domain: MyString
+  type1: MyString
+  type2: MyString
+  type3: MyString
+  website_type: MyString
+  user: one
+  notes: MyText
+
+two:
+  domain: MyString
+  type1: MyString
+  type2: MyString
+  type3: MyString
+  website_type: MyString
+  user: two
+  notes: MyText

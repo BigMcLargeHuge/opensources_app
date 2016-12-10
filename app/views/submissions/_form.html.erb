@@ -1,0 +1,11 @@
+<%= simple_form_for @submission, defaults: { wrapper_html: {class: 'form-group'}, input_html: { class: "form-control" }} do |f| %>
+  <%= f.invisible_captcha :subtitle %>
+	<%= f.input :domain, required: true, input_html: {class: "form-control"}%>
+	<%= f.input :type1 %>
+	<%= f.input :type2 %>
+	<%= f.input :type3 %>
+	<%= f.input :website_type %>
+	<%= f.input :notes %>
+
+	<%= f.submit "Submit", class: 'btn btn-primary'%>
+<% end %>

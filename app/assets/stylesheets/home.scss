@@ -1,3 +1,26 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+p.alert, p.notice {
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+nav, nav div.container-fluid{
+	background: white;
+}
+nav.navbar {
+	margin-bottom: 0px;
+	border: white;
+}
+.jumbotron{
+	img{
+		height: 80px;
+	}
+	background-image: url(newspapers.jpg);
+	background-size: cover;
+}
+nav ul.nav.navbar-nav img{
+	height: 25px;
+	margin-right: 3px;
+}
