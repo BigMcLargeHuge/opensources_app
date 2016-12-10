@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   resources :submissions
-  devise_for :users
+  # devise_for :users
   resources :home
 
   root to: "home#index"
