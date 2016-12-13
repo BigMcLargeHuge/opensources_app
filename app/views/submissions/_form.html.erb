@@ -1,11 +1,10 @@
 <%= simple_form_for @submission, defaults: { wrapper_html: {class: 'form-group'}, input_html: { class: "form-control" }} do |f| %>
-  <%= f.invisible_captcha :subtitle %>
+
 	<%= f.input :domain, required: true, input_html: {class: "form-control"}%>
-	<%= f.input :type1, collection: source_type %>
-	<%= f.input :type2, collection: source_type %>
-	<%= f.input :type3, collection: source_type%>
-	<%= f.input :website_type %>
-	<%= f.input :notes %>
+  <%= f.simple_fields_for :tag do |tag| %>
+	  <%= tag.input :tag_text, collection: source_type %>
+    <%= tag.input :notes %>
+  <% end %>
 
 	<%= f.submit "Submit", class: 'btn btn-primary'%>
 <% end %>

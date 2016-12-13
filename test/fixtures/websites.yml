@@ -2,10 +2,6 @@
 
 one:
   domain: MyString
-  website_type: MyString
-  notes: MyText
 
 two:
   domain: MyString
-  website_type: MyString
-  notes: MyText

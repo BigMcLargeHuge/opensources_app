@@ -1,11 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  domain: MyString
-  website_type: MyString
+  tag_text: MyString
   notes: MyText
+  website_id: 
+  submission_id: 
 
 two:
-  domain: MyString
-  website_type: MyString
+  tag_text: MyString
   notes: MyText
+  website_id: 
+  submission_id: 
