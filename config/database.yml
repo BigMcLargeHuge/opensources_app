@@ -10,7 +10,7 @@ defaults: &defaults
 development:
   adapter: postgresql
   encoding: unicode
-  database: opensources_cms
+  database: opensources_cms_dev
   pool: 5
   username: opensources_cms
   password: openpassword
@@ -18,7 +18,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: myapp_test
+  database: opensources_cms_dev
   pool: 5
   username: opensources_cms
   password: openpassword
