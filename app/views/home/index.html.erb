@@ -5,6 +5,10 @@
 		<div class="text-center">
 			<%= button_to "Submit Source For Review", new_submission_path,
       class: "btn btn-primary btn-lg text-center", :method => :get %>
+			<%= link_to user_github_omniauth_authorize_path, class: "btn btn-block btn-social btn-github" do %>
+				<span class="fa fa-github"></span>
+				Sign in with GitHub
+			<% end %>
 		</div>
 	</div>
 </div>
