@@ -7,6 +7,11 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'invisible_captcha'
 gem 'google-analytics-rails', '1.1.0'
 
+# Github Omiauth gem
+gem 'omniauth-github', '~> 1.1', '>= 1.1.2'
+
+gem 'figaro', group: :development
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
 # Use sqlite3 as the database for Active Record
