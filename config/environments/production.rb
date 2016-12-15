@@ -25,7 +25,7 @@ Rails.application.configure do
   enable_starttls_auto: true,
   user_name: ENV["GMAIL_USERNAME"],
   password: ENV["GMAIL_PASSWORD"]
-
+  }
 
   # Full error reports are disabled and caching is turned on.
   config.consider_all_requests_local       = false
