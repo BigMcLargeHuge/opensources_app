@@ -8,7 +8,7 @@ Devise.setup do |config|
   # by default. You can change it below and use your own secret key.
   # config.secret_key = 'ede00c8da99a16a14d66e86eeace99ca39831f1924c6f9c39871d0b98c61574f87ca2180cf2240dfcaa77b41d7050d2ba5259e5dcc3ab9ba732786c118680c9c'
 
-  config.omniauth :github, ENV[GITHUB_ID], ENV[GITHUB_SECRET]
+  config.omniauth :github, ENV["GITHUB_ID"], ENV["GITHUB_SECRET"]
 
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
