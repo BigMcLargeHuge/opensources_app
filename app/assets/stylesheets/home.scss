@@ -4,11 +4,6 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-p.alert, p.notice {
-	padding: 0px;
-	margin: 0px;
-	border: none;
-}
 nav, nav div.container-fluid{
 	background: white;
 }
@@ -31,4 +26,11 @@ nav ul.nav.navbar-nav img{
 	@include make-lg-column(8);
 	@include make-lg-column-offset(2);
 	@include make-xs-column(12);
+}
+div.oauth_button{
+	@include make-lg-column(4);
+	@include make-lg-column-offset(4);
+}
+.btn-github:hover{
+	color: #aaa;
 }

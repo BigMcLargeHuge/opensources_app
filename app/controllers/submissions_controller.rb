@@ -1,4 +1,5 @@
 class SubmissionsController < ApplicationController
+  before_filter :authenticate_user!
   # invisible_captcha only: [:create, :update], honeypot: :subtitle
 
   def index
@@ -36,6 +37,8 @@ class SubmissionsController < ApplicationController
     # params[:submission][:tag_attributes] = params[:submission][:tag] if params[:submission][:tag]
     params.require(:submission).permit(:subtitle, :domain, :type1, :type2, :type3, :website_type, :user_id, :notes, tag_attributes:[:tag_text, :notes])
   end
+
+
 
   # def your_spam_callback_method
   #   redirect_to root_path
