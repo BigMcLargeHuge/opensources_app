@@ -21,6 +21,7 @@ db:structure:dump
 db:structure:load
 db:version
 doc:app
+json_import:import
 log:clear
 middleware
 notes

@@ -13,6 +13,7 @@ class User < ActiveRecord::Base
    where(provider: auth.provider, uid: auth.uid).first_or_create do |user|
      logger.debug "Email is: #{auth.info.email}"
      user.email = auth.info.email
+     user.role = "user"
      user.password = Devise.friendly_token[0,20]
     #  user.name = auth.info.name   # assuming the user model has a name
     #  user.image = auth.info.image # assuming the user model has an image

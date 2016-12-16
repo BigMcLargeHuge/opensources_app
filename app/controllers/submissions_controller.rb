@@ -1,5 +1,5 @@
 class SubmissionsController < ApplicationController
-  before_filter :authenticate_user!
+  load_and_authorize_resource
   # invisible_captcha only: [:create, :update], honeypot: :subtitle
 
   def index
@@ -7,8 +7,8 @@ class SubmissionsController < ApplicationController
   end
 
   def new
-    @user = current_user
-    @submission = @user.submissions.build
+    # @user = current_user
+    # @submission = @user.submissions.build
     @tag = @submission.build_tag
   end
 
