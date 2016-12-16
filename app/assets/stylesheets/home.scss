@@ -39,4 +39,12 @@ div.oauth_button{
 	p {
 		font-size: 14px;
 	}
+	form{
+		display: inline-block;
+		margin: 10px;
+		input.btn{
+			border-style: solid;
+			border-color: rgb(51, 122, 183);
+		}
+	}
 }

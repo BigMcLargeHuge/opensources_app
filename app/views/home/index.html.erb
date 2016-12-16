@@ -5,6 +5,7 @@
 		<div class="button-frame text-center">
 			<% if user_signed_in? %>
 				<%= button_to "Submit Source For Review", new_submission_path, class: "btn btn-primary btn-lg text-center", :method => :get %>
+				<%= button_to "Report an Issue", new_issue_path, class: "btn btn-secondary btn-lg text-center", :method => :get %>
 			<% else %>
 			<p class="text-center">Sign in to contribute site classificatons.</p>
 				<div class="oauth_button">

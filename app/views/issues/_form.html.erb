@@ -1,0 +1,7 @@
+<%= simple_form_for @issue, defaults: { wrapper_html: {class: 'form-group'}, input_html: { class: "form-control" }} do |f| %>
+
+	<%= f.input :issue_text, required: true, label: "Please describe your issue." %>
+	<%= f.input :domain, required: false, label: "Tell us the domain associated with the issue (leave blank if none)."%>
+
+	<%= f.submit "Submit", class: 'btn btn-primary'%>
+<% end %>

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :issues
   # devise_for :users
   resources :submissions
   # devise_for :users
