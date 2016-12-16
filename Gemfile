@@ -7,8 +7,11 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'invisible_captcha'
 gem 'google-analytics-rails', '1.1.0'
 
+gem 'cancancan', '~> 1.15'
+
 gem 'bootstrap-social-rails'
 gem 'font-awesome-rails'
+gem 'rails_layout', group: :development
 
 # Github Omiauth gem
 gem 'omniauth-github', '~> 1.1', '>= 1.1.2'

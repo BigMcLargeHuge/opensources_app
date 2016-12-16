@@ -1,0 +1,6 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+div.authform{
+	@include make-md-column(5);
+}
