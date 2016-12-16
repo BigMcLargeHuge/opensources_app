@@ -1,0 +1,5842 @@
+{
+  "100percentfedup.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "21stcenturywire.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "24newsflash.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "365usanews.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "4threvolutionarywar.wordpress.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "70news.wordpress.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "http://82.221.129.208" : {
+    "type" : "conspiracy",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/10)",
+    "initials_date_2" : "",
+    "source_notes" : "I'm not sure how to best enter the URL/domain for this page, but it needs to be included",
+    "Investigated?" : ""
+  },
+  "aanirfan.blogspot.co.uk" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : 0,
+    "Investigated?" : false
+  },
+  "abcnews.com.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "abcnewsgo.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "abeldanger.net" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "abovetopsecret.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "abriluno.com" : {
+    "type" : "satire",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "aceflashman.wordpress.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "activistpost.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "addictinginfo.org" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "adobochronicles.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ahtribune.com" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "allnewspipeline.com" : {
+    "type" : "unreliable",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "americanlookout.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "americannews.com" : {
+    "type" : "fake ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "americanpatriotdaily.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "bias",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "americantoday.news" : {
+    "type" : "rumor",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "americasfreedomfighters.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "amplifyingglass.com" : {
+    "type" : "clickbait",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "amren.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "amtvmedia.com" : {
+    "type" : "rumor",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "amusmentic.com" : {
+    "type" : "clickbait",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ancient-code.com" : {
+    "type" : "junksci",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "anonews.co" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "anonhq.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : "hiya"
+  },
+  "anonnews.co" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "antiwar.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "site is biased but very open about bias and source",
+    "Investigated?" : false
+  },
+  "asia-pacificresearch.com" : {
+    "type" : "unreliable",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "assassinationscience.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "associatedmediacoverage.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "attn.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "automotostar.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "awdnews.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "twitter account deleted?",
+    "Investigated?" : false
+  },
+  "barenakedislam.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "BB4SP.com" : {
+    "type" : "conpiracy",
+    "2nd type" : "bias",
+    "3rd type" : "bias",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "beehivebugle.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "beforeitsnews.com" : {
+    "type" : "fake",
+    "2nd type" : "conspiracy",
+    "3rd type" : "rumor",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "betootaadvocate.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bients.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bigamericannews.com" : {
+    "type" : "satire",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "bigbluedimension.com" : {
+    "type" : "rumor",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bigbluevision.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bigbluevision.org" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bignuggetnews.com" : {
+    "type" : "bias",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bigpzone.com" : {
+    "type" : "",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to http://therundownlive.com/ (MZ 12/2)",
+    "Investigated?" : true
+  },
+  "bipartisanreport.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "blackagendareport.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "anon submissions",
+    "Investigated?" : false
+  },
+  "blacklistednews.com" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bluenationreview.com" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "borowitzreport.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bostonleader.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "breaking911.com" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "breitbart.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "buzzfeedusa.com" : {
+    "type" : "fake",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "bvanews.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "callthecops.net" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "cap-news.com" : {
+    "type" : "fake ",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "cbsnews.com.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "celebtricity.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "chaser.com.au" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "chicksontheright.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "christianfightback.com" : {
+    "type" : "hate",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "christiantimesnewspaper.com" : {
+    "type" : "rumor",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "christwire.org" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "chronicle.su" : {
+    "type" : "satire",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "cityworldnews.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "civictribune.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "clickhole.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "cnnnext.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/6)",
+    "initials_date_2" : "",
+    "source_notes" : "basically an RT video channel",
+    "Investigated?" : false
+  },
+  "coasttocoastam.com" : {
+    "type" : "unreliable ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "collective-evolution.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "concisepolitics.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "hate",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "consciouslifenews.com" : {
+    "type" : "junksci",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "conservativedailypost.com" : {
+    "type" : "fake",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "This website is a weird mix of outright fake news and some stuff that looks more credible. ",
+    "Investigated?" : false
+  },
+  "conservativefiringline.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : " ",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "conservativeoutfitters.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "conservativetribune.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "unreliable",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "consortiumnews.com" : {
+    "type" : "credible",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "news",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "The authors on this website are pretty credible and the articles appear well researched",
+    "Investigated?" : false
+  },
+  "conspiracywire.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "corbettreport.com" : {
+    "type" : "conpsiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "countdowntozerotime.com" : {
+    "type" : "conspiracy",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "countercurrents.org" : {
+    "type" : "political",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "?",
+    "initials_date" : "mz (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "This site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'",
+    "Investigated?" : false
+  },
+  "counterinformation.wordpress.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "counterpsyops.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "counterpunch.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "explicit POV - legit authors",
+    "Investigated?" : false
+  },
+  "counterpunch.org" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "explicit POV - legit authors",
+    "Investigated?" : false
+  },
+  "creambmp.com" : {
+    "type" : "satire",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "crystalair.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to http://www.cap-news.com/",
+    "Investigated?" : false
+  },
+  "dailybuzzlive.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "dailycurrant.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "dailyheadlines.com" : {
+    "type" : "fake",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "dailyheadlines.net" : {
+    "type" : "fake",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "dailykos.com" : {
+    "type" : "credible",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "dailyleak.org" : {
+    "type" : "parody",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "dailynewsbin.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "dailyoccupation.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "dailypolitics.info" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "website now down",
+    "Investigated?" : false
+  },
+  "dailypoliticsusa.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "dailysignal.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "dailysquib.co.uk " : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "dailystormer.com" : {
+    "type" : "hate",
+    "2nd type" : "conspiracy",
+    "3rd type" : "bias",
+    "Website Type" : "",
+    "initials_date" : "mz (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "pretty well known neo-nazi site",
+    "Investigated?" : false
+  },
+  "dailywire.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "darkmoon.me" : {
+    "type" : "hate",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "darkpolitricks.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "blog/aggregator",
+    "initials_date" : "mz (12/8) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "davidduke.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "davidstockmanscontracorner.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "davidwolfe.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/8) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "dcclothesline.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "junkscience",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "dcgazette.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "dcleaks.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "defenddemocracy.press" : {
+    "type" : "bias",
+    "2nd type" : "political",
+    "3rd type" : "",
+    "Website Type" : "aggregator/tank",
+    "initials_date" : "djb (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. Many 3rd party articles are linked, sources provided. These articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com.",
+    "Investigated?" : false
+  },
+  "delectabledietofpics.net" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "website now down",
+    "Investigated?" : false
+  },
+  "dennismichaellynch.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "news/aggregator",
+    "initials_date" : "mz (12/9) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "denverguardian.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "departed.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "redircts to dcposts.com ",
+    "Investigated?" : false
+  },
+  "der-postillon.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : " ",
+    "initials_date_2" : "",
+    "source_notes" : "Does anyone speak german better than I do? ",
+    "Investigated?" : false
+  },
+  "derfmagazine.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "dineal.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "disclose.tv" : {
+    "type" : "satire",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "disclosuremedia.net" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "diversitychronicle.wordpress.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9) ",
+    "initials_date_2" : "",
+    "source_notes" : "self-labled: https://diversitychronicle.wordpress.com/disclaimer/ ",
+    "Investigated?" : false
+  },
+  "downtrend.com" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "drudgereport.com" : {
+    "type" : "bias",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "drudgereport.com.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "duffleblog.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "duhprogressive.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "EagleRising.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "educate-yourself.org" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "educateinspirechange.org/health" : {
+    "type" : "clickbait",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "electionnightgatekeepers.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "elelephantintheroom.blogspot.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "elitereaders.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "elkoshary.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "About Me notes that it's not fake/satircal news",
+    "Investigated?" : false
+  },
+  "elmundotoday.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "About Me notes that it's not fake/satircal news",
+    "Investigated?" : false
+  },
+  "embols.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "empireherald.com" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "empirenews.net" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "empiresports.co" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "About Me notes that it's not fake/satircal news",
+    "Investigated?" : false
+  },
+  "enabon.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregator ",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "No authors, no contact, just copy/pasted from other questionable sites",
+    "Investigated?" : false
+  },
+  "endingthefed.com" : {
+    "type" : "bias",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "endoftheamericandream.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "endtime.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "Not sure about this one. zany religious prophecy/not really conspiracy",
+    "Investigated?" : false
+  },
+  "enduringvision.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "english.ruvr.ru" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9) ",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to https://sputniknews.com/ ",
+    "Investigated?" : false
+  },
+  "EUTimes.net" : {
+    "type" : "hate",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "eutopia.buzz" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "conspiracy",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "everydayworldnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9) ",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "everythingnewdaily.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "ewao.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "extraclubmagazine.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "fake",
+    "Website Type" : "aggregator ",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "vacilates between outright fake and misleading stories",
+    "Investigated?" : false
+  },
+  "eyeopening.info" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "blog disguised as news",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "fakingnews.com" : {
+    "type" : "fake ",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "fiction disclaimer on bottom of home screen ",
+    "Investigated?" : false
+  },
+  "fantasticword.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "website down?",
+    "Investigated?" : false
+  },
+  "federalistpress.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "fellowshipoftheminds.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "mz (12/11) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "filmsforaction.org" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "floridasunpost.com" : {
+    "type" : "fake",
+    "2nd type" : "satirical ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "I concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#QvpAzP.e8Oqb ",
+    "Investigated?" : false
+  },
+  "flyheight.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "aggregator of actual and potentially altered videos",
+    "Investigated?" : false
+  },
+  "fognews.ru" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "site contains satire disclaimer",
+    "Investigated?" : false
+  },
+  "foodbabe.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "foreignpolicyjournal.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "news, critical analysis",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "legit source coming from a political perspective",
+    "Investigated?" : false
+  },
+  "fort-russ.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "fourwinds10.net" : {
+    "type" : "conpsiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11) ",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "fprnradio.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "freedomoutpost.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "bias",
+    "3rd type" : "bias",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "freepatriot.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to https://redcrane.net/ ",
+    "Investigated?" : false
+  },
+  "freewoodpost.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "site contains satire disclaimer ",
+    "Investigated?" : false
+  },
+  "fromthetrenchesworldreport.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "bias",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "frontpagemag.com" : {
+    "type" : "bias",
+    "2nd type" : "hate",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "Part of David Horowitz' Freedom Center",
+    "Investigated?" : false
+  },
+  "fusion.net" : {
+    "type" : "political",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "website contains some satire ",
+    "Investigated?" : " "
+  },
+  "gaia.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "galacticconnection.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "gangstergovernment.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "gatesofvienna.net" : {
+    "type" : "hate",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "geoengineeringwatch.org" : {
+    "type" : "junksci",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "geopolmonitor.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "aggregegator ",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "this website is tricky (in terms of writers using some interesting frames/language). def could use a second analysis.",
+    "Investigated?" : false
+  },
+  "globalresearch.ca" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "godlikeproductions.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "gomerblog.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "site contains satire disclaimer ",
+    "Investigated?" : false
+  },
+  "govtslaves.info" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "greanvillepost.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : " ",
+    "Investigated?" : false
+  },
+  "guardianlv.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : " ",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "guccifer2.wordpress.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "gulagbound.com" : {
+    "type" : "bias",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "hangthebankers.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "healthimpactnews.com" : {
+    "type" : "junksci",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "healthnutnews.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "henrymakow.com" : {
+    "type" : "fake",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "heresyblog.net" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "rumor",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "holyobserver.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "humansarefree.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "huzlers.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "ifyouonlynews.com" : {
+    "type" : "unreliable",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "ihavethetruth.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "fake",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ijr.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "ilovemyfreedom.org" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "in5d.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "indiaarising.com" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/8)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "informationclearinghouse.info" : {
+    "type" : "conspiracy",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "informetoday.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "infowars.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "instaworldnews.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "intellihub.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "intrendtoday.com" : {
+    "type" : "clickbait",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "intrepidreport.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "investmentresearchdynamics.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "investmentwatchblog.com" : {
+    "type" : "bias",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "itaglive.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ItMakesSenseBlog.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "iwanttoexplore.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "mostly turned back into car website",
+    "Investigated?" : false
+  },
+  "jackpineradicals.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "left wing discussion site",
+    "Investigated?" : false
+  },
+  "jamesrgrangerjr.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "jesus-is-savior.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "jewsnews.co.il" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "clickbait",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "jonesreport.com" : {
+    "type" : "conspiracy ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "journal-neo.org" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "katehon.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "katehon.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "russian version of katehon.com? (I think so, but i can't get a read on this one- mz)",
+    "Investigated?" : false
+  },
+  "kingworldnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "landoverbaptist.org" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "legorafi.fr" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "in French",
+    "Investigated?" : false
+  },
+  "lewrockwell.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "liberalamerica.org" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "liberalbias.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "libertyblitzkrieg.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "libertyfederation.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "libertymovementradio.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "libertynews.com" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "libertytalk.fm" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "libertyunyielding.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "libertyvideos.org" : {
+    "type" : "conpisracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "libertywritersnews.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "lifeandabout.com" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "lifenews.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "lifeprevention.com" : {
+    "type" : "junksci",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "lifesitenews.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "lifezette.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "lightlybraisedturnip.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "in German",
+    "Investigated?" : false
+  },
+  "liveactionnews.org" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "livefreelivenatural.com" : {
+    "type" : "*",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/13)",
+    "initials_date_2" : "",
+    "source_notes" : "*Malware Warning, did not navigate to site",
+    "Investigated?" : false
+  },
+  "livevote.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "lushforlife.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "madpatriots.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "madworldnews.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "madworldnews.com" : {
+    "type" : "unreliable",
+    "2nd type" : "hate",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "magafeed.com" : {
+    "type" : "rumor",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "\"god/emperor\" category for trump",
+    "Investigated?" : false
+  },
+  "makeamericagreattoday.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbat",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "makeamericagreattoday.com" : {
+    "type" : "bias",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "mediamass.net" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "mediazone.news" : {
+    "type" : "rumor",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "megafreshnews.com" : {
+    "type" : "rumor",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "megynkelly.us" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "mintpressnews.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "legit source form a political perspective",
+    "Investigated?" : false
+  },
+  "moonofalabama.org" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "jw (12/14)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "morningnewsusa.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "stories seem to originate from real news, but are somewhat click-bait-y and sources are not cited",
+    "Investigated?" : false
+  },
+  "mrconservative.com" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "mrconservative.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "msnbc.website" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "mydailyrelaxation.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "server not found",
+    "Investigated?" : false
+  },
+  "myfreshnews.com" : {
+    "type" : "fake",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "found linked from iwanttoexplore.com",
+    "Investigated?" : false
+  },
+  "nahadaily.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "nakedcapitalism.com" : {
+    "type" : "political",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "commentary on finance, economics, politics and power",
+    "Investigated?" : false
+  },
+  "nationalreport.net" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "nationindistress.weebly.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "naturalblaze.com" : {
+    "type" : "junksci",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "naturalnews.com" : {
+    "type" : "junksci",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "nbc.com.co" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "nbcpolitics.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "website down?",
+    "Investigated?" : false
+  },
+  "nbcpoll.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "website down?",
+    "Investigated?" : false
+  },
+  "ncscooper.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "nevo.news" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "newcenturytimes.com" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "newcoldwar.org" : {
+    "type" : "poilitical",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "contains statement that site authors are \"independent, but not non-partisan\" (anti-war (Ukraine))",
+    "Investigated?" : false
+  },
+  "newsbbc.net" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newsbiscuit.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "sh (12/10)",
+    "initials_date_2" : "",
+    "source_notes" : "http://www.newsbiscuit.com/about/disclaimer/ ",
+    "Investigated?" : "mz (12/5)"
+  },
+  "newsbuzzdaily.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to http://www.flyheight.com/ (12/14)",
+    "Investigated?" : false
+  },
+  "newscenterusa.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "newsexaminer.net" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : " ",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : "mz (12/5)"
+  },
+  "newsfrompolitics.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newslo.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "redirects to http://politicops.com/ (12/2)",
+    "Investigated?" : "mz (12/5)"
+  },
+  "Newsmax.com" : {
+    "type" : "unreliable",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "newsmutiny.com" : {
+    "type" : "satire",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : true
+  },
+  "newsninja2012.com" : {
+    "type" : "bias",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "newsopening.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "website down",
+    "Investigated?" : false
+  },
+  "newstarget.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "" : {
+    "type" : "",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "newsthump.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "site contains satire disclaimer",
+    "Investigated?" : false
+  },
+  "newstoad.net" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "blog",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "Tagline: The news they don't want you to hear. Because it isn't true.",
+    "Investigated?" : false
+  },
+  "newswatch28.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newswatch33.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newswire-24.com" : {
+    "type" : "rumor",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newswithviews.com" : {
+    "type" : "fake",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "newyorker.com/humor" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "nodisinfo.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : "TURE"
+  },
+  "northcrane.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "notallowedto.com" : {
+    "type" : "clickbait",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "kg (12/15)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "now8news.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "nowtheendbegins.com" : {
+    "type" : "conpisracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "nutritionfacts.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "nymeta.co" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "nyuzer.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "objectiveministries.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "occupydemocrats.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "occupyliberals.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "odgossip.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "off-guardian.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "oftwominds.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "oilgeopolitics.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "opednews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "openmindmagazine.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "orientalreview.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "other98.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "pakalertpress.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "patriotchronicle.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "patriotnewsdaily" : {
+    "type" : "bias",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "patriotrising.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "paulcraigroberts.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "platosguns.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicalblindspot.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicalears.com" : {
+    "type" : "unreliable",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicalo.com" : {
+    "type" : "fake",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicalsitenews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicaltimes.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicops.com" : {
+    "type" : "satire",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "politicsbreaking.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicsinformation.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicsinfotoday.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicsintheusa.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicsinusa.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "politicususa.com" : {
+    "type" : "clickbait",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "powerpoliticians.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "pravda.ru" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "pravdareport.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "prepperwebsite.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "presidentialvoting2016.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "press24.us" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "presstv.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "presstv.ir" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "prisonplanet.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "prisonplanet.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "prisonplanet.tv" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "prntly.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "projectveritas.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "proudemocrat.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "randpaulreview.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rawforbeauty.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rawws.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rbth.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "react365.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "readynutrition.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "realfarmacy.com" : {
+    "type" : "junksci",
+    "2nd type" : "conspiracy",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "realnewsrightnow.com" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "realplanetnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "realprogress.online" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "realtimepolitics.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "redflagnews.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "redstate.com" : {
+    "type" : "political",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "redstatewatcher.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "reductress.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "regated.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rense.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "responsibletechnology.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "returnofkings.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rightalert.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "righton.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rightwingnews.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "rilenews.com" : {
+    "type" : "fake",
+    "2nd type" : "satire",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rinf.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rockcitytimes.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ronpaulinstitute.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "rumormillnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ruptly.tv" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "russia-direct.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "russia-insider.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "satiratribune.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "scrappleface.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "secretsofthefed.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "self.agency" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "hey!",
+    "Investigated?" : false
+  },
+  "sentinelblog.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "sgtreport.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "shadowproof.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "shiftfrequency.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "shtfplan.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "silentmajoritypatriots.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "silverdoctors.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "sonsoflibertyradio.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "bias",
+    "3rd type" : " unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "sott.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "sourceplanet.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "southfront.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "southweb.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "speciallifeentertainment.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "speld.nl" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "spinzon.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "sportspickle.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "sputniknews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "stneotscitizen.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "stormcloudsgathering.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "strategic-culture.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "stuppid.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "suggesthealthytips.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "superstation95.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "survivopedia.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "the-newspapers.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theantimedia.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theautogear.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thebeaverton.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theblaze.com" : {
+    "type" : "political",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "thebostontribune.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thecarsmagazine.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thecivilian.co.nz" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thecommonsenseshow.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thecontroversialfiles.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thedailybell.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thedailymash.co.uk" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thedailysheeple.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "bias",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thedailywtf.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thedemocratic.site" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theduran.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theearthchild.co.za" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theeconomiccollapseblog.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theeventchronicle.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thefederalistpapers.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thefreethoughtproject.com" : {
+    "type" : "unreliable",
+    "2nd type" : "conspiracy",
+    "3rd type" : "clickbait",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "I'd like to discuss this one/needs second/third analysis ",
+    "Investigated?" : true
+  },
+  "thegoldwater.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theinformedamerican.net" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "thelapine.ca" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thelastgreatstand.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thelastlineofdefense.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "themideastbeast.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "themindunleashed.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "themindunleashed.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "themz (12/5)news.info" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thenewamerican.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thenewsdoctors.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thenewsnerd.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theonion.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theoxymoron.co.uk" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thepeoplescube.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thepoke.co.uk" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thepoliticalinsider.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "theracketreport.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "therebel.media" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thereporterz.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "therightplanet.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "therightstuff.biz" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "therightstuff.biz" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "therundownlive.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "therussophile.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thesaker.is" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thesleuthjournal.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thespoof.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thestatelyharold.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thetruthseeker.co.uk" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theunrealtimes.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theuspatriot.com" : {
+    "type" : "satire",
+    "2nd type" : "fake",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thevalleyreport.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "theworldstyle.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thirdworldtraveler.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "thisismynewworld.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "topekasnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "topinfopost.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "topnewspolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "topratedviral.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "toprightnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "totalworldnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "trendingnewsguide.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "trendingnewstoday.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "tribuneherald.net" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "trunews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "truthandaction.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "truthbroadcastnetwork.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "truthfeed.com" : {
+    "type" : "hate",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "truthfrequencyradio.com" : {
+    "type" : "conspiracy",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "truthkings.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "truthrevolt.org" : {
+    "type" : "bias",
+    "2nd type" : "hate",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "tunerspeed.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "Part of David Horowitz' Freedom Center",
+    "Investigated?" : false
+  },
+  "turnerradionetwork.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "twitchy.com" : {
+    "type" : "clickbait",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "aggregator",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "tyronetribulations.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "ufoholic.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "unconfirmedsources.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "undergroundhealth.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "undergroundworldnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "unitedmediapublishing.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "universepolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "unz.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "us.blastingnews.com" : {
+    "type" : "satire",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usa2016elections.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usadailypolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usadailytime.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usahitman.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usainfobox.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usajournalist.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usalinepolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usalinepoliticsnow.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usamagazinestudio.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanews24hrs.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanewsflash.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanewshome.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanewsinsider.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanewspolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usanewsstudio.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usaonlinepolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usaonlinetoday.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usaphase.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usapoliticsdaily.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usapoliticsnow.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usapoliticstoday.com " : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "usapoliticus.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usapowernews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usascan.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usasupreme.com" : {
+    "type" : "fake",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usatwentyfour.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usdcrisis.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usdefensewatch.com" : {
+    "type" : "unreliable",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "usfanzone.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usherald.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "uslifetoday.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usmediacenter.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "uspolitics24.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "uspoliticslive.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usslibertyveterans.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usuncut.com" : {
+    "type" : "clickbait",
+    "2nd type" : "bias",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "usviewer.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "vdare.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "veteransnewsnow.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "veteranstoday.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "vigilantcitizen.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "viralliberty.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "viraltube.nl" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "voltairenet.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "vonpress.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "votocrat.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wakeupthesheep.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wakingtimes.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wakingupwisconsin.com" : {
+    "type" : "conspiracy",
+    "2nd type" : " ",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "washingtonsblog.com" : {
+    "type" : "bias",
+    "2nd type" : "conspiracy",
+    "3rd type" : "satire",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "Site notes it sometimes contains parody",
+    "Investigated?" : false
+  },
+  "waterfordwhispersnews.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wearechange.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "weeklyworldnews.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "weshapelife.org" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "westernjournalism.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/9)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "whatdoesitmean.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)\n",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "whatreallyhappened.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)\n",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "whydontyoutrythis.com" : {
+    "type" : "junksci",
+    "2nd type" : "rumor",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wikileaks.com" : {
+    "type" : "rumors",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wikileaks.org" : {
+    "type" : "rumors",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wikispooks.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "Willyloman.wordpress.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "winkprogress.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "winningdemocrats.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : " ",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "witscience.org" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wnd.com" : {
+    "type" : "bias",
+    "2nd type" : "clickbait",
+    "3rd type" : "unreliable",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "world24monitor.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldcallyoutoday.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worlddaily.info" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldnewsdailyreport.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldnewspolitics.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldpoliticsus.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldrumor.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldstoriestoday.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldtruth.tv" : {
+    "type" : "conspiracy",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "worldwidehealthy.com" : {
+    "type" : "junksci",
+    "2nd type" : "clickbait",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "wundergroundmusic.com" : {
+    "type" : "satire",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/7)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "www.rt.com" : {
+    "type" : "state",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "Youngcons.com" : {
+    "type" : "bias",
+    "2nd type" : "unreliable",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : " "
+  },
+  "yourfunpage.com" : {
+    "type" : "fake",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "mostly links to rando YT videos",
+    "Investigated?" : false
+  },
+  "yournewswire.com" : {
+    "type" : "clickbait",
+    "2nd type" : "junksci",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "zaytung.com" : {
+    "type" : "unknown",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "jw (12/11)",
+    "initials_date_2" : "",
+    "source_notes" : "in Turkish",
+    "Investigated?" : false
+  },
+  "zerohedge.com" : {
+    "type" : "conspiracy",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "mz (12/5)",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : false
+  },
+  "" : {
+    "type" : "",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  },
+  "" : {
+    "type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
+    "Website Type" : "",
+    "initials_date" : "",
+    "initials_date_2" : "",
+    "source_notes" : "",
+    "Investigated?" : ""
+  }
+}
