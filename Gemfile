@@ -9,6 +9,8 @@ gem 'google-analytics-rails', '1.1.0'
 
 gem 'cancancan', '~> 1.15'
 
+gem 'omniauth-google-oauth2', '~> 0.4.1'
+
 gem 'bootstrap-social-rails'
 gem 'font-awesome-rails'
 gem 'rails_layout', group: :development

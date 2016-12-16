@@ -6,7 +6,9 @@ Rails.application.routes.draw do
   # devise_for :users
   resources :home
 
+  match '/users/:id/finish_signup' => 'users#finish_signup', via: [:get, :patch], :as => :finish_signup
   devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
+
   # devise_scope :user do
   #   # :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
   #   delete 'sign_out', :to => 'devise/sessions#destroy', :as => :destroy_user_session
