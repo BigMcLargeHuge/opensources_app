@@ -2,7 +2,7 @@
 	<div class="container">
 		<h1 class="display-3 text-center"><%= image_tag("opensources.svg") %>OpenSources</h1>
 		<p class="text-center">Professionally curated lists of online sources, available free for public use.</p>
-		<div class="text-center">
+		<div class="button-frame text-center">
 			<% if user_signed_in? %>
 				<%= button_to "Submit Source For Review", new_submission_path, class: "btn btn-primary btn-lg text-center", :method => :get %>
 			<% else %>

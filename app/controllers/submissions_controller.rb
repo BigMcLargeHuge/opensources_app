@@ -7,19 +7,21 @@ class SubmissionsController < ApplicationController
   end
 
   def new
-    @submission = Submission.new
+    @user = current_user
+    @submission = @user.submissions.build
     @tag = @submission.build_tag
   end
 
   def create
-    if Submission.joins(:tag)
+    @user = current_user
+    if @user.submissions.joins(:tag)
           .where(
             submissions: { domain: submission_params[:domain] },
             tags:        { tag_text: submission_params[:tag_attributes][:tag_text] }
           ).exists?
       redirect_to root_path, notice: "Thank you for your submission."
     else
-      @submission = Submission.new(submission_params)
+      @submission = @user.submissions.build(submission_params)
 
       if @submission.save
         redirect_to root_path, notice: "Thank you for your submission."
