@@ -1,5 +1,6 @@
 class IssuesController < ApplicationController
   def index
+    @submissions = Submission.all
   end
 
   def new

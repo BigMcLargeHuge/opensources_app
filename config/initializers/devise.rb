@@ -9,7 +9,7 @@ Devise.setup do |config|
   # config.secret_key = 'ede00c8da99a16a14d66e86eeace99ca39831f1924c6f9c39871d0b98c61574f87ca2180cf2240dfcaa77b41d7050d2ba5259e5dcc3ab9ba732786c118680c9c'
 
   config.omniauth :github, ENV["GITHUB_ID"], ENV["GITHUB_SECRET"], scope: 'user:email', into_fields: 'email'
-  config.omniauth :twitter, ENV["TWITTER_KEY"], ENV["TWITER_SECRET"], scope: 'email', into_fields: 'email'
+  config.omniauth :twitter, ENV["TWITTER_KEY"], ENV["TWITER_SECRET"], scope: 'user:email', into_fields: 'email'
   # config.omniauth :google_oauth2, ENV['GOOGLE_ID'], ENV['GOOGLE_SECRET'], scope: "userinfo.email,userinfo.profile", prompt: "consent"
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,

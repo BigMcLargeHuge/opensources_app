@@ -1,4 +1,6 @@
 class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
+  rescue_from ActiveRecord::RecordInvalid, with: :render_invalid
+
   def self.provides_callback_for(provider)
     class_eval %Q{
       def #{provider}
@@ -17,6 +19,10 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
 
   [:twitter, :github].each do |provider|
     provides_callback_for provider
+  end
+
+  def render_invalid
+    redirect_to root_path, alert: "There was a problem logging you in using that provider (Twitter/Github).  Perhaps you've previously logged in using another provider?  If so, try that one."
   end
 
   # def after_sign_in_path_for(resource)
