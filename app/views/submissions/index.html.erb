@@ -1,4 +1,4 @@
-<h1>Submitted Issues</h1>
+<h1>Submitted Classifications</h1>
 <p>Below is a list of classifications that have been submitted and are pending review.</p>
 
 	<table data-toggle="table" data-sort-name = "domain" data-sort-order = "desc">
@@ -12,7 +12,7 @@
 				<tr>
 				<td><%= submission.domain %></td>
 				<td><%= submission.tag.tag_text %></td>
-				<td><%= submission.tag.notes %></td>
+				<td>auto_link(<%= submission.tag.notes %>)</td>
 				</tr>
 			<% end %>
 		</tbody>
