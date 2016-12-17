@@ -15,7 +15,7 @@ class Users::OmniauthCallbacksController < Devise::OmniauthCallbacksController
     }
   end
 
-  [:google_oauth2, :github].each do |provider|
+  [:twitter, :github].each do |provider|
     provides_callback_for provider
   end
 
