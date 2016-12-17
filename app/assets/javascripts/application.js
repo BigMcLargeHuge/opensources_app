@@ -12,7 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
 //= require bootstrap-sprockets
 //= require bootstrap-table
 //= require_tree .
+$(document).ready(ready);
+$(document).on('page:load', ready);
