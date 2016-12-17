@@ -1,18 +1,2 @@
-<h1>Submitted Issues</h1>
-<p>Below is a list of classifications that have already been submitted.</p>
-
-<%= @submissions.each do |submission| %>
-	<div class="row">
-		<div class="domain">
-			<%= submission.domain %>
-		</div>
-		<div class="tags">
-			<%= submission.tags.each do |tag| %>
-			<div class="tag row">
-				<div class="tag_text"><%= tag.tag_text %></div>
-				<div class="tag_notes"><%= tag.notes %></div>
-			</div>
-			<% end %>
-		</div>
-	</div>
-<% end %>
+<h1>Issues#index</h1>
+<p>Find me in app/views/issues/index.html.erb</p>

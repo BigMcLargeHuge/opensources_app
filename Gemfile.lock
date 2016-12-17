@@ -47,6 +47,7 @@ GEM
       sass (>= 3.3.4)
     bootstrap-social-rails (4.12.0)
       railties (>= 3.1)
+    bootstrap-table-rails (1.11.0)
     builder (3.2.2)
     byebug (9.0.6)
     cancancan (1.15.0)
@@ -222,6 +223,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass (~> 3.3.6)
   bootstrap-social-rails
+  bootstrap-table-rails
   byebug
   cancancan (~> 1.15)
   coffee-rails (~> 4.2)

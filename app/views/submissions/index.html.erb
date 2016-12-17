@@ -1,2 +1,19 @@
-<h1>Submissions#index</h1>
-<p>Find me in app/views/submissions/index.html.erb</p>
+<h1>Submitted Issues</h1>
+<p>Below is a list of classifications that have been submitted and are pending review.</p>
+
+	<table data-toggle="table" data-sort-name = "domain" data-sort-order = "desc">
+		<thead>
+			<th data-field="domain" data-sortable="true">Domain</th>
+			<th data-field="tag" data-sortable="true">Tag</th>
+			<th data-field="Citations for Tag/Notes" data-sortable="true">Citations for Tag/Notes</th>
+		</thead>
+		<tbody>
+			<% @submissions.each do |submission| %>
+				<tr>
+				<td><%= submission.domain %></td>
+				<td><%= submission.tag.tag_text %></td>
+				<td><%= submission.tag.notes %></td>
+				</tr>
+			<% end %>
+		</tbody>
+	</table>

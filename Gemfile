@@ -7,6 +7,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'invisible_captcha'
 gem 'google-analytics-rails', '1.1.0'
 gem 'omniauth-twitter', '~> 1.2', '>= 1.2.1'
+gem "bootstrap-table-rails"
 
 gem 'cancancan', '~> 1.15'
 
