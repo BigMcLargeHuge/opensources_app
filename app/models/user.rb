@@ -7,7 +7,7 @@ class User < ActiveRecord::Base
   has_many :issues
   has_many :tags, through: :submissions
 
-  devise :omniauthable, omniauth_providers: [:github, :google_oauth2]
+  devise :omniauthable, omniauth_providers: [:github, :twitter]
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable
 
@@ -39,7 +39,8 @@ class User < ActiveRecord::Base
          user = User.new(
            name: auth.extra.raw_info.name,
            #username: auth.info.nickname || auth.uid,
-           email: email ? email : "#{TEMP_EMAIL_PREFIX}-#{auth.uid}-#{auth.provider}.com",
+          #  email: email ? email : "#{TEMP_EMAIL_PREFIX}-#{auth.uid}-#{auth.provider}.com",
+           email: auth.info.email,
            password: Devise.friendly_token[0,20]
          )
         #  user.skip_confirmation!

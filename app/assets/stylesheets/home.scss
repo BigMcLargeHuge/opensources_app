@@ -28,11 +28,11 @@ nav ul.nav.navbar-nav img{
 	@include make-xs-column(12);
 }
 div.oauth_button{
-	@include make-lg-column(4);
-	@include make-lg-column-offset(4);
+	@include make-lg-column(6);
+	@include make-lg-column-offset(3);
 }
-.btn-github:hover{
-	color: #aaa;
+.btn-social:hover{
+	color: #fff;
 }
 .button-frame{
 	margin-top: 55px;
