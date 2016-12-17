@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
 
+  get '/terms', to: "home#terms"
+  get '/privacy', to: "home#privacy"
+
   resources :issues
   # devise_for :users
   resources :submissions
