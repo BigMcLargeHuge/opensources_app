@@ -12,7 +12,7 @@
 				<tr>
 				<td><%= submission.domain %></td>
 				<td><%= submission.tag.tag_text %></td>
-				<td>auto_link(<%= submission.tag.notes %>)</td>
+				<td><%= auto_link(submission.tag.notes) %></td>
 				</tr>
 			<% end %>
 		</tbody>
