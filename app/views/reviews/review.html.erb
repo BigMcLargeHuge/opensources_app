@@ -1,3 +1,13 @@
+<script>
+$(document).ready(function(){
+	console.log("test");
+	$('.reviewed:checkbox').change(function(){
+		console.log("been reviewed");
+		$(this).closest('td').find(".fresh").val("true");
+	});
+});
+</script>
+
 <div class="container">
 	<%= form_tag update_multiple_reviews_path, method: :put, remote: true do %>
 		<table id="review_table" data-toggle="table" data-sort-name = "domain" data-sort-order = "desc">
@@ -14,7 +24,7 @@
 							<td><%= f.input :domain %></td>
 							<td><%= f.input :tag_text %></td>
 							<td><%= f.input :notes %></td>
-							<td><%= f.input :reviewed %></td>
+							<td><%= f.input :reviewed, input_html: {class: "reviewed"} %><%= f.hidden_field :fresh, class: "fresh" %></td>
 						</tr>
 					<% end %>
 				<% end %>

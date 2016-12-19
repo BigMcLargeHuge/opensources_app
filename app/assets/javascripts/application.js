@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require bootstrap-sprockets
 //= require bootstrap-table
+//= require reviews.js
 //= require_tree .
 $(document).ready(ready);
 $(document).on('page:load', ready);
