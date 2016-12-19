@@ -3,7 +3,7 @@ class User < ActiveRecord::Base
   TEMP_EMAIL_REGEX = /\Achange@me/
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
-  has_many :submissions
+  has_and_belongs_to_many :submissions
   has_many :issues
   has_many :tags, through: :submissions
 
