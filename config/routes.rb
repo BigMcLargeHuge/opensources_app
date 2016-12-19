@@ -4,10 +4,16 @@ Rails.application.routes.draw do
   get '/privacy', to: "home#privacy"
 
   resources :issues
-  # devise_for :users
   resources :submissions
-  # devise_for :users
   resources :home
+
+  resources :reviews do
+    collection do
+      get 'review'
+      put 'update_multiple'
+      post 'update_multiple'
+    end
+  end
 
   match '/users/:id/finish_signup' => 'users#finish_signup', via: [:get, :patch], :as => :finish_signup
   devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }

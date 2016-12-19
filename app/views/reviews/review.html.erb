@@ -1,0 +1,25 @@
+<div class="container">
+	<%= form_tag update_multiple_reviews_path, method: :put, remote: true do %>
+		<table id="review_table" data-toggle="table" data-sort-name = "domain" data-sort-order = "desc">
+			<thead>
+				<th data-field="domain" data-sortable="true">Domain</th>
+				<th data-field="tag" data-sortable="true">Tag</th>
+				<th data-field="Citations for Tag/Notes" data-sortable="true">Citations for Tag/Notes</th>
+				<th data-field="Approved" data-sortable="true">Approved?</th>
+			</thead>
+			<tbody>
+				<% @submissions.each do |submission| %>
+					<%= simple_fields_for "submissions[]", submission, defaults: {label: false} do |f| %>
+						<tr>
+							<td><%= f.input :domain %></td>
+							<td><%= f.input :tag_text %></td>
+							<td><%= f.input :notes %></td>
+							<td><%= f.input :reviewed %></td>
+						</tr>
+					<% end %>
+				<% end %>
+			</tbody>
+		<table>
+		<%= submit_tag "Save Changes", id: "review_save" %>
+	<% end %>
+</div>

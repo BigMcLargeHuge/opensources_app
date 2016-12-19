@@ -38,6 +38,7 @@ class Ability
       can :manage, Submission
       can :manage, Website
       can :manage, Tag
+      can :manage, ReviewsController
     elsif user.role == "user"
       can :create, Submission
       # can :update, Submission, :user_id user.id

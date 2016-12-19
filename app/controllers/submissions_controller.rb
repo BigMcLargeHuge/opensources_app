@@ -1,10 +1,12 @@
 class SubmissionsController < ApplicationController
   load_and_authorize_resource
+  skip_before_filter :verify_authenticity_token, :only => :update_multiple
   # invisible_captcha only: [:create, :update], honeypot: :subtitle
 
   def index
     @submissions = Submission.all
   end
+
 
   def new
     # @user = current_user
@@ -32,17 +34,20 @@ class SubmissionsController < ApplicationController
     end
   end
 
+  def show
+  end
+
+  def update
+    @submission = Submission.find(submission_params[:id])
+    if @submission.update_attributes(submission_params[:id])
+      redirect_to root_path, notice: "successfully updated!"
+    end
+  end
+
   private
 
   def submission_params
-    # changing tag to tag_attributes
-    # params[:submission][:tag_attributes] = params[:submission][:tag] if params[:submission][:tag]
-    params.require(:submission).permit(:subtitle, :domain, :type1, :type2, :type3, :website_type, :user_id, :notes, tag_attributes:[:tag_text, :notes])
+     params.require(:submissions).permit(:subtitle, :domain, :type1, :type2, :type3, :website_type, :user_id, :notes, tag_attributes:[:tag_text, :notes])
   end
 
-
-
-  # def your_spam_callback_method
-  #   redirect_to root_path
-  # end
 end
