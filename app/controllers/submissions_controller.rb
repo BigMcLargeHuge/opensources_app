@@ -47,7 +47,7 @@ class SubmissionsController < ApplicationController
   private
 
   def submission_params
-     params.require(:submissions).permit(:subtitle, :domain, :type1, :type2, :type3, :website_type, :user_id, :notes, tag_attributes:[:tag_text, :notes])
+    params.require(:submission).permit(:subtitle, :domain, :type1, :type2, :type3, :website_type, :user_id, :notes, tag_attributes:[:tag_text, :notes])
   end
 
 end
