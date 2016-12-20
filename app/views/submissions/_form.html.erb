@@ -1,10 +1,8 @@
 <%= simple_form_for @submission, defaults: { wrapper_html: {class: 'form-group'}, input_html: { class: "form-control" }} do |f| %>
 
 	<%= f.input :domain, required: true, input_html: {class: "form-control"}%>
-  <%= f.simple_fields_for :tag do |tag| %>
-	  <%= tag.input :tag_text, collection: source_type, required: true %>
-    <%= tag.input :notes, label: "URLs of specific examples (please provide several)", required: true %>
-  <% end %>
+  <%= f.input :tag_text, collection: source_type, required: true %>
+  <%= f.input :notes, label: "URLs of specific examples (please provide several)", required: true %>
 
 	<%= f.submit "Submit", class: 'btn btn-primary'%>
 <% end %>
