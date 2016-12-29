@@ -4,6 +4,14 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+#save_button{
+	position: fixed;
+	height: 62px;
+	bottom: 0px;
+	right: 0px;
+	width: 119px;
+}
+
 #review_save{
 	position: fixed;
 	bottom: 1px;

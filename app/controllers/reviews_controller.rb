@@ -43,10 +43,10 @@ class ReviewsController < ApplicationController
 
 
     respond_to do |format|
-      format.js {flash[:notice] = "Updated Submissions"}
+      flash.now[:notice] = "Updated Submissions"
+      format.html {redirect_to review_submissions_path, flash[:notice] = "Updated Submissions"}
+      format.js
     end
-
-    # redirect_to review_submissions_path
   end
 
   def update

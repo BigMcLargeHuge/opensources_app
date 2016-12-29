@@ -1,0 +1,10 @@
+<% @submissions.each do |submission| %>
+	<%= simple_fields_for "submissions[]", submission, defaults: {label: false} do |f| %>
+		<tr>
+			<td><%= f.input :domain %></td>
+			<td><%= f.input :tag_text %></td>
+			<td><%= f.input :notes %></td>
+			<td><%= f.input :reviewed, input_html: {class: "reviewed"} %><%= f.hidden_field :fresh, class: "fresh" %></td>
+		</tr>
+	<% end %>
+<% end %>

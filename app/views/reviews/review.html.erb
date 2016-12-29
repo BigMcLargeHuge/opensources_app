@@ -30,6 +30,9 @@ $(document).ready(function(){
 				<% end %>
 			</tbody>
 		<table>
-		<%= submit_tag "Save Changes", id: "review_save" %>
+		<div id="save_button">
+			<div id="flash-notice"></div>
+			<%= submit_tag "Save Changes", id: "review_save" %>
+		</div>
 	<% end %>
 </div>
