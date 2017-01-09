@@ -4,6 +4,12 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+div.alert {
+	background: red;
+	color: white;
+	font-weight: bold;
+}
+
 nav, nav div.container-fluid{
 	background: white;
 }
